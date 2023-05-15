@@ -18,3 +18,12 @@ Voor de html toets had ik een website gemaakt over Amsterdam waar ik praat over 
 
 Van al mijn projecten ben ik het trotst op deze. We moesten een website maken over onze favortiete superheld en de getuigen van dat superheld.
 
+Mijn blogs:
+
+1. [Patrick de Wolf](blog1.md)
+
+Deze blog gaat over een leerkracht dat ook informatica geeft. Hier zal ik uitleggen waarom ik het zo interessant vondt.
+
+2. [Beeldscherm jonge kinderen](blog2.md)
+
+Deze blog gaat over jonge kinderen die veel op scherm zijn de gevolgen daarvan en mijn gedachten daaraan.
